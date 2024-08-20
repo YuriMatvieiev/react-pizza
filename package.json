@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/YuriMatvieiev/react-pizza",
-
+  "homepage": "https://YuriMatvieiev.github.io/react-pizza",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
